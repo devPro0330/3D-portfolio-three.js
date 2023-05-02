@@ -4,6 +4,7 @@ build
 .build/**
 .test/**
 .next
+/dist
 
 yarn.lock
 package-lock.json
