@@ -1,9 +1,6 @@
-# Build and Deploy 3D Portfolio Website with Three.js and React.js
+# 3D Portfolio Website with Three.js and React.js
 
 ## Introduction
-
-The most impressive websites in the world use 3D graphics and animations to bring their content to life.
-Let's build your own ThreeJS 3D Developer Portfolio!
 
 In this project, it'll be implemented following:
 
