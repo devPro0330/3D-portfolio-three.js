@@ -117,27 +117,15 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Software Engineer",
-    company_name: "Shinetech Software Inc.",
-    icon: company,
-    iconBg: "#383E56",
-    date: "09/2013 - 10/2015",
-    points: [
-      "Developed a responsive e-commerce website using PHP and MySQL that increased online sales by 50% over the course of a year.",
-      "Developed a C# desktop application for a medical research team that improved the efficiency of data analysis and led to more accurate research findings.",
-      "Created a Java-based inventory management system for a retail store that reduced inventory errors by 78% and saved the company thousands of dollars in lost revenue.",
-    ],
-  },
-  {
-    title: "Frontend Developer",
-    company_name: "ArcherMind Tech",
+    title: "Full-Stack Developer",
+    company_name: "Freelance",
     icon: company,
     iconBg: "#E6DEDD",
-    date: "11/2015 - 04/2018",
+    date: "04/2020 - PRESENT",
     points: [
-      "Implemented a React.js-based dashboard for a financial company that streamlined their shipping and tracking processes, resulting in a 27% reduction in delivery time and improved customer satisfaction.",
-      "Developed a custom JavaScript library that improved the functionality of a web application, resulting in a 15% increase in user engagement.",
-      "Implemented a responsive design for a web application using React.js that improved the user experience and led to a 35% increase in user retention.",
+      "Contributed to the development of a continuous integration and deployment (CI/CD) pipeline that incorporated unit testing, resulting in faster turnaround times by 40% for bug fixes and new features.",
+      "Developed single page websites for customers using React.js, Next.js, Vue.js and Node.js.",
+      "Implemented a React.js-based payment processing system for an online retailer that improved their payment processing speed and reduced fraud risk.",
     ],
   },
   {
@@ -154,15 +142,27 @@ const experiences = [
     ],
   },
   {
-    title: "Full-Stack Developer",
-    company_name: "Freelance",
+    title: "Frontend Developer",
+    company_name: "ArcherMind Tech",
     icon: company,
     iconBg: "#E6DEDD",
-    date: "04/2020 - PRESENT",
+    date: "11/2015 - 04/2018",
     points: [
-      "Contributed to the development of a continuous integration and deployment (CI/CD) pipeline that incorporated unit testing, resulting in faster turnaround times by 40% for bug fixes and new features.",
-      "Developed single page websites for customers using React.js, Next.js, Vue.js and Node.js.",
-      "Implemented a React.js-based payment processing system for an online retailer that improved their payment processing speed and reduced fraud risk.",
+      "Implemented a React.js-based dashboard for a financial company that streamlined their shipping and tracking processes, resulting in a 27% reduction in delivery time and improved customer satisfaction.",
+      "Developed a custom JavaScript library that improved the functionality of a web application, resulting in a 15% increase in user engagement.",
+      "Implemented a responsive design for a web application using React.js that improved the user experience and led to a 35% increase in user retention.",
+    ],
+  },
+  {
+    title: "Software Engineer",
+    company_name: "Shinetech Software Inc.",
+    icon: company,
+    iconBg: "#383E56",
+    date: "09/2013 - 10/2015",
+    points: [
+      "Developed a responsive e-commerce website using PHP and MySQL that increased online sales by 50% over the course of a year.",
+      "Developed a C# desktop application for a medical research team that improved the efficiency of data analysis and led to more accurate research findings.",
+      "Created a Java-based inventory management system for a retail store that reduced inventory errors by 78% and saved the company thousands of dollars in lost revenue.",
     ],
   },
 ];
